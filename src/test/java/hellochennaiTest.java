@@ -8,4 +8,8 @@ public class hellochennaiTest {
     }
 
 
+    public void testHi() {
+        this.test = "hi tamilNadu!!!";
+        System.out.println(test);
+    }
 }
